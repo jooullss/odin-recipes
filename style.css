@@ -47,7 +47,7 @@ a {
     margin: 0px 5%;
 }
 
-.picture, pic {
+.picture {
     width: 30%;
     object-fit: contain;
 }

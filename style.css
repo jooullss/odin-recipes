@@ -1,5 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Comfortaa:wght@700&family=Kanit&family=Libre+Baskerville&family=Mooli&family=Roboto+Mono:wght@300;400;700&family=Source+Code+Pro&display=swap');
 
+@font-face {
+    font-family: deffont;
+    src: url(Mooli-Regular.ttf);
+}
 
 
 
@@ -11,7 +14,7 @@ img {
 }
 * {
     margin: 0px;
-    font-family:'Roboto Mono', monospace;
+    font-family: deffont;
 }
 .main {
     width: 50%;
@@ -34,7 +37,7 @@ img {
 h1 {
     font-size: 3em;
     text-align: center;
-    font-family: 'Roboto Mono', monospace;
+    font-family: deffont;
 }
 
 a {

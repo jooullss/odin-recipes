@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Comfortaa:wght@700&family=Kanit&family=Libre+Baskerville&family=Mooli&family=Roboto+Mono:wght@300;400;700&family=Source+Code+Pro&display=swap');
+
+
+
 
 img {
     width: 100%;
@@ -7,6 +11,7 @@ img {
 }
 * {
     margin: 0px;
+    font-family:'Roboto Mono', monospace;
 }
 .main {
     width: 50%;
